@@ -3,7 +3,7 @@ package com.tinder.model.webservice.errorhandler;
 import java.io.IOException;
 import java.util.logging.Logger;
 
-//import org.apache.log4j.Logger;
+
 import com.tinder.TinderWebappApplication;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.client.ClientHttpResponse;
